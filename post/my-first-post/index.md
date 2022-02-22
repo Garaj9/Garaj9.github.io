@@ -1,9 +1,9 @@
 
 zxcxzc
 
-```js
-var asd = 12
+```kotlin
+private val catalogViewModel: CatalogViewModel by activityViewModels()
 ```
 
 dddddsda 
-asd *dasdads*   
+asd *dasdads*
